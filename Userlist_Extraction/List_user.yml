@@ -1,0 +1,5 @@
+---
+ - name: Linux user extraction
+   hosts: linux
+   roles: 
+     - List_user
